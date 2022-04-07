@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.itemContainer {
+  border-bottom: solid black 0.5px;
+  transition: height 2s ease-out;
+}
+.arrow {
+  padding: 5px;
+}
+.title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+}
